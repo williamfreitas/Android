@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, AndroidCap2Activity!</string>
     <string name="app_name">AndroidCap2</string>
+    <string name="Nome">William</string>
 </resources>
