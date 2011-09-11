@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Hello World, AndroidCap2Activity!</string>
-    <string name="app_name">AndroidCap2</string>
+    <string name="app_name">Agenda</string>
     <string name="Nome">William</string>
+    <string name="LabelNome">Nome:</string>
+    <string name="LabelEndereco">Endereco:</string>
+    <string name="LabelTelefone">Telefone:</string>
+    <string name="LabelDataNascimento">Data Nascimento:</string>
+    <string name="LabelTelaFormularioCadastro">Formulário de Cadastro</string>
 </resources>
